@@ -1,19 +1,3 @@
-# FMCG-Style-Store-Performance-Dashboard-
-Of course. This is an excellent Power BI project that showcases a full, multi-page dashboard with clear navigation and deep-dive analysis. It's a strong portfolio piece that you should definitely highlight.
-
-Here is a professionally structured README file and a concise "About" description based on the screenshots and the project's name.
-
----
-
-### **Short "About" Description (for GitHub)**
-
-An interactive Power BI dashboard for a retail store, providing FMCG-style analysis of sales, profit, product performance, and regional trends. Features multi-page navigation for a comprehensive business overview.
-
-**Suggested Topics:** `power-bi`, `data-visualization`, `business-intelligence`, `sales-analytics`, `retail-analytics`, `dashboard`, `fmcg`
-
----
-
-### **README.md File**
 
 # FMCG-Style Store Performance Dashboard
 
